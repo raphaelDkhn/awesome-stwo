@@ -87,7 +87,7 @@ _ZK-VMs provable with Stwo._
 
 ## AI
 
-_Projects using Stwo for in AI related projects_
+_Projects using Stwo in AI related projects_
 
 - [LuminAIR](https://github.com/gizatechxyz/LuminAIR) - An open-source Machine Learning framework that leverages STWO to ensure the integrity of computational graphs.
 - [Zunigram](https://github.com/raphaelDkhn/zunigram) - A STARK-based prover for proving unigram LLM-watermark detection using the Stwo prover.
